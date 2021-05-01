@@ -1,0 +1,351 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="UTF-8">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.styleshout.com/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.styleshout.com/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.styleshout.com/favicon-16x16.png">
+    <link rel="manifest" href="https://www.styleshout.com/site.webmanifest">
+
+    <!-- Theme Hook
+    ================================================== -->
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found | StyleShout</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page Not Found | StyleShout" />
+	<meta property="og:site_name" content="StyleShout" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.styleshout.com/#organization","name":"StyleShout","url":"https://www.styleshout.com/","sameAs":["https://www.facebook.com/styleshout","https://twitter.com/styleshout"],"logo":{"@type":"ImageObject","@id":"https://www.styleshout.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/www.styleshout.com/wp-content/uploads/2019/10/logo-2.png?fit=800%2C800&ssl=1","contentUrl":"https://i1.wp.com/www.styleshout.com/wp-content/uploads/2019/10/logo-2.png?fit=800%2C800&ssl=1","width":800,"height":800,"caption":"StyleShout"},"image":{"@id":"https://www.styleshout.com/#logo"}},{"@type":"WebSite","@id":"https://www.styleshout.com/#website","url":"https://www.styleshout.com/","name":"StyleShout","description":"Download High-Quality Free Website Templates","publisher":{"@id":"https://www.styleshout.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.styleshout.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="StyleShout &raquo; Feed" href="https://www.styleshout.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="StyleShout &raquo; Comments Feed" href="https://www.styleshout.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.styleshout.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.7.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.styleshout.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://www.styleshout.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='styleshout-googlefonts-css'  href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&#038;family=Manrope:wght@500;600;700&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='styleshout-style-css'  href='https://www.styleshout.com/wp-content/themes/styleshout_v5/style.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.6.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.styleshout.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.styleshout.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.styleshout.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+
+    <!-- Analytics
+    ================================================== -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1061610-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1061610-1');
+</script>
+
+
+</head>
+
+<body id="top" class="error404 ss-preload">
+
+
+    <!-- # Preloader
+    ================================================== -->
+    <!-- <div id="preloader">
+        <div id="loader" class="dots-fade">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div> -->
+
+ 
+    <!-- # facebook js sdk
+    ================================================== -->
+    <div id="fb-root"></div>
+    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=629536467212560&autoLogAppEvents=1"></script>
+
+
+    <!-- # s-page
+    ================================================== -->
+    <div class="s-page  page-single">
+
+
+        <!-- ## header
+        ================================================== -->
+        <header class="s-header">
+            <div class="row s-header__container">
+
+                <div class="header-branding">
+                    <a class="site-logo" href="https://www.styleshout.com" alt="StyleShout" rel="home">
+                        <svg class="logo" width="93" height="124" viewBox="0 0 93 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0 62V0H93L0 62Z" fill="#2365AA"/>
+                            <path d="M93 62V124H0L93 62Z" fill="#2365AA"/>
+                            <path d="M93 124L0 62V0L93 62V124Z" fill="#3AA0D9"/>
+                        </svg>
+                            
+                        <span class="logo-text">
+                            StyleShout
+                        </span>
+                    </a>
+                </div> <!-- end header-branding -->
+
+                <div class="header-content">
+
+                    <div class="header-content__title"><span>Navigate to</span></div>
+                    <a href="#0" class="header-content__close" title="Close Menu">Close</a>
+
+                    <ul id="menu-main-menu" class="header-content__menu"><li id="menu-item-96" class="template-parent-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a title="High Quality Free Website Templates" href="https://www.styleshout.com/free-templates/">Free Templates</a></li>
+<li id="menu-item-21" class="blog-parent-menu menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-21"><a title="Styleshout Blog" href="https://www.styleshout.com/blog/">Blog</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="https://www.styleshout.com/template-license/">License</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://www.styleshout.com/about-us/">About</a></li>
+<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://www.styleshout.com/contact/">Contact</a></li>
+<li id="menu-item-47" class="ss-highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="https://1.envato.market/c/239552/275988/4415">Premium Themes</a></li>
+</ul>
+                    <ul class="header-content__social">
+                        <li class="ss-facebook"><a href="https://www.facebook.com/styleshout">Facebook</a></li>
+                        <li class="ss-twitter"><a href="https://twitter.com/styleshout">Twitter</a></li>
+                        <li class="ss-behance"><a href="https://www.behance.net/ealigam">Behance</a></li>
+                        <li class="ss-dribbble"><a href="https://dribbble.com/ealigam">Dribbble</a></li>
+                    </ul> <!-- end header-content__social -->
+
+                </div> <!-- end header-content -->
+
+                <div class="header-toggle">
+                    <a href="#0" class="header-toggle__search"> 
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill:rgba(0, 0, 0, 1);transform:;-ms-filter:"><path d="M10,18c1.846,0,3.543-0.635,4.897-1.688l4.396,4.396l1.414-1.414l-4.396-4.396C17.365,13.543,18,11.846,18,10 c0-4.411-3.589-8-8-8s-8,3.589-8,8S5.589,18,10,18z M10,4c3.309,0,6,2.691,6,6s-2.691,6-6,6s-6-2.691-6-6S6.691,4,10,4z"></path></svg>
+                    <a/>
+
+                    <a class="header-toggle__menu" href="#0" title="Menu"><span>Menu</span></a>
+                </div> <!-- end header-toggle -->
+
+            </div> <!-- s-header__container -->
+        </header> <!-- end s-header -->
+
+
+        <!-- ## search block
+        ================================================== -->
+        <div class="s-search search">
+            
+            <form role="search" method="get" class="search__form" action="https://www.styleshout.com/">
+    <label>
+        <span class="hide-content">Search For:</span>
+        <input type="search" class="search__field" placeholder="" value="" name="s" title="Search for:" autocomplete="off">
+    </label>
+    <input type="submit" class="search__submit" value="Search">
+</form>
+            <a href="#0" class="search__close">Close</a>
+
+        </div> <!-- end s-search -->
+
+<!-- ## content
+================================================== -->
+<section class="s-content">
+
+    <div class="row content-header">
+        <div class="column lg-12">
+
+            <p id="breadcrumbs"><span><span><a href="https://www.styleshout.com/">Home</a> &gt; <span class="breadcrumb_last" aria-current="page">Error 404: Page not found</span></span></span></p>
+            <div class="content-intro">
+                <h1 class="heading-display">
+                    Page Not Found.
+                </h1>
+            </div>
+
+        </div>
+    </div> <!-- end content-header -->
+
+    <div class="row content-main-wrap content-main-wrap--big-top-margin">
+        <div class="column lg-12 content-main">
+
+            <div class="error-404">
+
+                <div class="error-404__top">
+                    <h1>404</h1>
+                    <h3>Sorry, we can’t seem to find what you’re looking for.</h3>
+                </div>
+                <hr>
+                <div class="error-404__bottom">
+                    <p>You've landed on a URL that doesn't seem to exist on StyleShout. Here's some options:</p>
+                    <ul class="disc">
+                        <li>If you think this is an error on our part, please <a href="https://www.styleshout.com/contact/" title="Contact Us">let us know</a>.</li>
+                        <li>You could try a search up by clicking the search icon on the top right.</li>
+                        <li>Or you could just go directly to the <a href="https://www.styleshout.com">homepage</a>.</li>
+                    </ul>
+                </div>
+
+            </div> <!-- end error-404-->
+
+        </div> <!-- end content-main -->
+
+    </div> <!-- end content-main-wrap -->
+
+</section> <!-- end s-content -->
+
+        <!-- ## site footer
+        ================================================== -->
+        <footer class="s-footer">
+
+            <div class="row footer-top">
+                <div class="column lg-6 tab-12">
+                    <h4>Terms of Use</h4>
+
+                    <p>All site templates are free. You are free to modify the templates anyway you like and use them for your personal and commercial
+                    projects. All we ask is that you visibly credit styleshout for the design somewhere on your site. And also,
+                    spread the word, tell your friends about us.</p>
+
+                    <a href="https://www.styleshout.com/license/" class="btn u-fullwidth">Learn More</a>
+                </div>
+
+                <div class="column lg-6 tab-12">
+                    <h4>Support Styleshout</h4>
+
+                    <p>If you enjoy our free templates and wanted to support us, please consider buying us a coffee. Those extra caffeine would absolutely help us create new great-looking free website templates.
+                    Thank you for your support!
+                    </p>
+
+                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJ2TKNLPUGH3Y" class="btn u-fullwidth">Paypal Donate</a>
+                </div>
+            </div> <!-- end footer-top -->
+
+            <div class="row">
+                <div class="column lg-12">
+                    <ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14"><a href="https://www.styleshout.com/">Home</a></li>
+<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="https://www.styleshout.com/legacy-templates/">Legacy Templates</a></li>
+<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><a href="https://www.styleshout.com/customize/">Customize</a></li>
+<li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://www.styleshout.com/template-license/">License</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-20"><a href="https://www.styleshout.com/blog/">Blog</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://www.styleshout.com/faq/">FAQ</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.styleshout.com/about-us/">About Us</a></li>
+</ul>                </div>
+            </div>
+
+            <div class="row">
+                <div class="column lg-12">
+                    <div class="copyright text-center"> 
+                        <span>© StyleShout 2021</span> 
+                        <span>Proudly Hosted By <a href="https://www.dreamhost.com/r.cgi?287326">Dreamhost</a></span> 
+                    </div>
+                </div>
+            </div>
+
+            <div class="ss-go-top">
+                <a class="smoothscroll" title="Back to Top" href="#top">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 4h12v2H6zm5 10v6h2v-6h5l-6-6-6 6z"/></svg>
+                </a>
+            </div> <!-- end ss-go-top -->
+
+        </footer> <!-- end site footer -->
+
+    </div> <!-- end s-page -->
+
+
+    <!-- # Theme Hook
+    ================================================== -->
+            <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;if(!(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session")))return!1;n=(n=n.replace(/\-c\-/g,",")).replace(/\-q\-/g,'"');try{n=JSON.parse(n)}catch(e){return!1}return n.started+1e3*e<(new Date).getTime()&&(n=null),n},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime()),(e=JSON.stringify(e))&&(e=(e=e.replace(/\"/g,"-q-")).replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview();
+        </script>
+        <!-- / -->
+            <script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.6.1/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.styleshout.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/vendor/lodash.min.js' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/url.min.js' id='wp-url-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/api-fetch.min.js' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.styleshout.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "7c8135d145" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.styleshout.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.styleshout.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' id='ta_main_js-js-extra'>
+/* <![CDATA[ */
+var thirsty_global_vars = {"home_url":"\/\/www.styleshout.com","ajax_url":"https:\/\/www.styleshout.com\/wp-admin\/admin-ajax.php","link_fixer_enabled":"yes","link_prefix":"go","link_prefixes":["recommends","go"],"post_id":"1381","enable_record_stats":"yes","enable_js_redirect":"yes","disable_thirstylink_class":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.styleshout.com/wp-content/plugins/thirstyaffiliates/js/app/ta.js?ver=3.10.2' id='ta_main_js-js'></script>
+<script type='text/javascript' src='https://www.styleshout.com/wp-content/themes/styleshout_v5/js/plugins.js?ver=5.7.1' id='styleshout_plugins-js'></script>
+<script type='text/javascript' src='https://www.styleshout.com/wp-content/themes/styleshout_v5/js/main.js?ver=5.7.1' id='styleshout_main-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfI3pQUAAAAAGvyEQYttJA3x9huA7UIbjLVxdPg&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LfI3pQUAAAAAGvyEQYttJA3x9huA7UIbjLVxdPg","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.styleshout.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+    
+</body>
